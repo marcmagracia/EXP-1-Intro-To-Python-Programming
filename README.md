@@ -4,14 +4,11 @@ This repository is designed to show my progress in Python programming. Through a
 
 -----
 
-#### Instructions: 
-Write a Python script/code in the Jupyter Notebook to do the given problems. 
+### Instructions: Write a Python script/code in the Jupyter Notebook to do the given problems. 
 
 -----
 
-#### Problem 1: ALPHABET SOUP PROBLEM
-Create a function that takes a string and returns a string with its letters in alphabetical order. 
-
+#### ALPHABET SOUP PROBLEM: Create a function that takes a string and returns a string with its letters in alphabetical order. 
 Example: 
   - alphabet_soup(“hello”)
     - _Expected output:_ ehllo 
@@ -20,9 +17,9 @@ Example:
 
 -----
 
-#### Problem 2: EMOTICON PROBLEM
-Create a function that changes specific words into emoticons. Given a sentence as a string, replace the words smile, grin, sad and mad with their corresponding emoticon:
+#### EMOTICON PROBLEM: Create a function that changes specific words into emoticons. 
 
+Given a sentence as a string, replace the words smile, grin, sad and mad with their corresponding emoticon:
   - Smile  =  :)
   - Grin   =  :D
   - Sad    =  :((
@@ -30,14 +27,13 @@ Create a function that changes specific words into emoticons. Given a sentence a
 
 Example: 
   - emotify(“Make me smile”) 
-    -_Expected output:_ Make me :) 
+    - _Expected output:_ Make me :) 
   - emotify(“I am mad”) 
-    -_Expected output:_ I am >:(
+    - _Expected output:_ I am >:(
 
 -----
 
-###### Problem 3: UNPACKING LIST PROBLEM 
-Unpack the list writeyourcodehere into three variables, being first, middle, and last, with middle being everything in between the first and last element. Then print all three variables. 
+###### Problem 3: UNPACKING LIST PROBLEM: Unpack the list writeyourcodehere into three variables, being first, middle, and last, with middle being everything in between the first and last element. Then print all three variables. 
 
 Example:  lst = [1, 2, 3, 4, 5, 6] 
   _Expected output:_
