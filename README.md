@@ -33,10 +33,11 @@ Example:
 
 -----
 
-###### Problem 3: UNPACKING LIST PROBLEM: Unpack the list writeyourcodehere into three variables, being first, middle, and last, with middle being everything in between the first and last element. Then print all three variables. 
+#### UNPACKING LIST PROBLEM: Unpack the list writeyourcodehere into three variables, being first, middle, and last, with middle being everything in between the first and last element. Then print all three variables. 
 
 Example:  lst = [1, 2, 3, 4, 5, 6] 
-  _Expected output:_
+
+_Expected output:_
     - first: 1  
     - middle: [2,3,4,5] 
     - last: 6
