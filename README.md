@@ -37,7 +37,7 @@ Example:
 
 Example:  lst = [1, 2, 3, 4, 5, 6] 
 
-_Expected output:_
-    - first: 1  
-    - middle: [2,3,4,5] 
-    - last: 6
+- _Expected output:_
+  - first: 1
+  - middle: [2,3,4,5]
+  - last: 6
