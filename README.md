@@ -9,31 +9,30 @@ Write a Python script/code in the Jupyter Notebook to do the given problems.
 
 -----
 
-###### Problem 1: ALPHABET SOUP PROBLEM
+#### Problem 1: ALPHABET SOUP PROBLEM
 Create a function that takes a string and returns a string with its letters in alphabetical order. 
 
 Example: 
   - alphabet_soup(“hello”)
-    _Expected output:_ ehllo 
+    - _Expected output:_ ehllo 
   - alphabet_soup(“hacker”) ➞ acehkr
-    _Expected output:_ ehllo 
+    - _Expected output:_ ehllo 
 
 -----
 
-###### Problem 2: EMOTICON PROBLEM
+#### Problem 2: EMOTICON PROBLEM
 Create a function that changes specific words into emoticons. Given a sentence as a string, replace the words smile, grin, sad and mad with their corresponding emoticon:
 
-######  Word        Emoticon
-  Smile        :)
-  Grin         :D
-  Sad          :((
-  Mad          >:(
+  - Smile  =  :)
+  - Grin   =  :D
+  - Sad    =  :((
+  - Mad    = >:(
 
 Example: 
   - emotify(“Make me smile”) 
-    _Expected output:_ Make me :) 
+    -_Expected output:_ Make me :) 
   - emotify(“I am mad”) 
-    _Expected output:_ I am >:(
+    -_Expected output:_ I am >:(
 
 -----
 
@@ -42,6 +41,6 @@ Unpack the list writeyourcodehere into three variables, being first, middle, and
 
 Example:  lst = [1, 2, 3, 4, 5, 6] 
   _Expected output:_
-    first: 1  
-    middle: [2,3,4,5] 
-    last: 6
+    - first: 1  
+    - middle: [2,3,4,5] 
+    - last: 6
