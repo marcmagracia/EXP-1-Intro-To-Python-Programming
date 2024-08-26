@@ -1,12 +1,10 @@
 ## Experiment 1: Introduction to Python Programming
 
-This repository is designed to show my progress in Python programming. Through a number of exercises and projects, I am expected to identify the basic codes and functions in Python Programming and to be able to apply the different codes and functions in creating a Python program.
+_This is the first of several repositories I will upload to document my progress in Python programming through several exercises I am and will be performing. In this project, I am expected to identify the basic codes and functions in Python programming and to be able to apply the different codes and functions when creating a Python program._
 
 -----
 
-### Instructions: Write a Python script/code in the Jupyter Notebook to do the given problems. 
-
------
+## Given problems and their expected outputs:
 
 #### ALPHABET SOUP PROBLEM: Create a function that takes a string and returns a string with its letters in alphabetical order. 
 Example: 
@@ -14,7 +12,6 @@ Example:
     - _Expected output:_ ehllo 
   - alphabet_soup(“hacker”) ➞ acehkr
     - _Expected output:_ ehllo 
-
 -----
 
 #### EMOTICON PROBLEM: Create a function that changes specific words into emoticons. 
@@ -30,7 +27,6 @@ Example:
     - _Expected output:_ Make me :) 
   - emotify(“I am mad”) 
     - _Expected output:_ I am >:(
-
 -----
 
 #### UNPACKING LIST PROBLEM: Unpack the list writeyourcodehere into three variables, being first, middle, and last, with middle being everything in between the first and last element. Then print all three variables. 
